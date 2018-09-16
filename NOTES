@@ -1,0 +1,28 @@
+#https://github.com/search?q=apples
+#localhost:search?q=Apples
+#localhost:search?item=Apples
+
+regular if conditional:
+if
+else
+end
+
+
+
+
+-    if
+
+    elsif
+
+    elsif
+        if
+        else
+        end
+
+    elsif
+      if
+      else
+      end
+
+-    else
+-    end
